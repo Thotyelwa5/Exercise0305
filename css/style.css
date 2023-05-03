@@ -1,0 +1,14 @@
+h1{
+    background-color: blueviolet;
+}
+.number{
+    padding-bottom: 7%;
+}
+
+
+.currentDate{
+    background-color: aqua;
+}
+.day{
+    font-weight: bold;
+}
